@@ -18,3 +18,9 @@ My name is Eduardo and I'm a mobile developer.
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardozsw&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardozsw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## Links
+<div>
+<a href="https://www.youtube.com/channel/UCyQbnqj5WKq76qegGV3o_Bw" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carloseduardossm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
