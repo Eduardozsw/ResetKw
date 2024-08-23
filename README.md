@@ -1,5 +1,5 @@
 # hey, welcome to my github profile
-My name is Eduardo and I'm a mobile developer.
+My name is Eduardo and I'm a web developer.
 
 ## 💻 Tech Stack:
 <div align="center">
